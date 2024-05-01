@@ -1,4 +1,4 @@
-USE StoreDatabase;
+USE loja;
 GO
 
 -- Creating a sequence for generating order IDs
